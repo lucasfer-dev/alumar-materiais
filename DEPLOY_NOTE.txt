@@ -1,0 +1,1 @@
+Assets publicados via blobs binários para preservar as imagens do site.
