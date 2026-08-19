@@ -1,0 +1,1 @@
+Os arquivos `.b64` são cópias codificadas dos assets usadas durante a publicação automatizada. Os arquivos `.jpg` são os assets consumidos pelo site.
